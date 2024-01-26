@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.center {
+    text-align: center;
+}
+
+#gif {
+    width: 400px;
+    height: 300px;
+}
+
+#buttons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+#yesButton,
+#noButton {
+    width: 60px;
+    height: 40px;
+}
+
+#baslik {
+    font-size: 40px; 
+}
+#yesButton {
+    background-color: pink;
+    color: white;
+}
+
+#noButton {
+    background-color: pink;
+    color: white;
+}
